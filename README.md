@@ -2,7 +2,7 @@
 # HuggingFace Text Summarization
 
 ## Overview
-HuggingFace Text Summarization is a cutting-edge application leveraging HuggingFace's powerful NLP models for summarizing texts. This tool is designed to provide quick, efficient, and accurate summaries, making it ideal for professionals and academics alike who need to process large volumes of text.
+The HuggingFace Text Summarization project is leveraging HuggingFace's powerful NLP models for summarizing texts. This tool is designed to provide quick, efficient, and accurate summaries, making it ideal for professionals and academics alike who need to process large volumes of text.
 
 ## Features
 - **Advanced NLP Models**: Utilizes HuggingFace's state-of-the-art NLP models for text summarization.
